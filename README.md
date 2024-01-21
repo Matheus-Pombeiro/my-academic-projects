@@ -64,5 +64,3 @@ Projects in JavaScript
 Check the authorial projects I developed
 
 <a href="https://matheus-pombeiro.github.io/my-authorial-projects">My Authorial Projects</a>
-
-lorem ypsum
