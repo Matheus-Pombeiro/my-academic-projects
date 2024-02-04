@@ -61,6 +61,14 @@ Projects in JavaScript
 
 <hr>
 
+Projects in React.js
+
+<a href="https://github.com/Matheus-Pombeiro/livro-react-maujor">Tabela de Livros Maujor (Repository)</a>
+
+<a href="https://to-do-list-react-pombeiro.netlify.app/">To Do List</a>
+
+<hr>
+
 Check the authorial projects I developed
 
 <a href="https://matheus-pombeiro.github.io/my-authorial-projects">My Authorial Projects</a>
