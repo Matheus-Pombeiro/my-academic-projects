@@ -1,7 +1,7 @@
 # my-academic-projects
  Check list of my academic projects with links
 
-Projects in HTML, CSS, Tailwind and SCSS
+Projects using HTML, CSS, Tailwind and SCSS
 
 <a href="https://matheus-pombeiro.github.io/alura-spa">Alura Spa</a>
 
@@ -21,7 +21,7 @@ Projects in HTML, CSS, Tailwind and SCSS
 
 <hr>
 
-Projects in JavaScript
+Projects using JavaScript
 
 <a href="https://matheus-pombeiro.github.io/robotron-2000">Robotron 2000</a>
 
@@ -61,7 +61,7 @@ Projects in JavaScript
 
 <hr>
 
-Projects in React.js
+Projects using React.js
 
 <a href="https://github.com/Matheus-Pombeiro/livro-react-maujor">Tabela de Livros Maujor (Repository)</a>
 
