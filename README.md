@@ -65,7 +65,9 @@ Projects using React.js
 
 <a href="https://github.com/Matheus-Pombeiro/livro-react-maujor">Tabela de Livros Maujor (Repository)</a>
 
-<a href="https://to-do-list-react-pombeiro.netlify.app/">To Do List</a>
+<a href="https://to-do-list-react-pombeiro.netlify.app/">To Do List (Matheus Battisti)</a>
+
+<a href="https://organo-matheus-pombeiro.vercel.app/">Organo (Alura)</a>
 
 <hr>
 
