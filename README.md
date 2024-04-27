@@ -65,12 +65,14 @@ Projects using React.js
 
 <a href="https://github.com/Matheus-Pombeiro/livro-react-maujor">Tabela de Livros Maujor (Repository)</a>
 
-<a href="https://to-do-list-react-pombeiro.netlify.app/">To Do List (Matheus Battisti)</a>
+<a href="https://to-do-list-react-pombeiro.netlify.app/">To Do List</a>
 
-<a href="https://organo-matheus-pombeiro.vercel.app/">Organo (Alura)</a>
+<a href="https://organo-matheus-pombeiro.vercel.app/">Organo</a>
+
+<a href="https://organo-v2-xi.vercel.app/">Organo (Version 2)</a>
 
 <hr>
 
-Check the authorial projects I developed
+Check the authorial projects that I've developed
 
 <a href="https://matheus-pombeiro.github.io/my-authorial-projects">My Authorial Projects</a>
