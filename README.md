@@ -73,6 +73,8 @@ Projects using React.js
 
 <a href="https://ola-mundo-one-eosin.vercel.app/">Olá, Mundo</a>
 
+<a href="https://space-app-pi-self.vercel.app/">Space App</a>
+
 <hr>
 
 Check the authorial projects that I've developed
