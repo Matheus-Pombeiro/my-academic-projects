@@ -75,6 +75,8 @@ Projects using React.js
 
 <a href="https://space-app-pi-self.vercel.app/">Space App</a>
 
+<a href="https://react-context-api-wine.vercel.app/">Meteora</a>
+
 <hr>
 
 Check the authorial projects that I've developed
